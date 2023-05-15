@@ -9,6 +9,7 @@ I am a strong collaborator and team player, and I am always willing to help othe
 ### Skills
 
 Programming languages: Python, C/C++, VHDL, Kotlin 
+
 Software development tools and frameworks: OpenCV, MavSDK, Dronekit
 
 
