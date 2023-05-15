@@ -1,6 +1,6 @@
 ### About me
 
-I'm an electrical & electronics engineering student at Hacettepe University. I have experience in a variety of programming languages and technologies, including Python, C++, and Kotlin. I am also proficient in using a variety of software development tools and frameworks.
+I'm an electrical & electronics engineering student at Hacettepe University. I have experience in a variety of programming languages and technologies, including Python, C++, and Kotlin. I have a keen interest in utilizing a diverse range of software development tools and frameworks.
 
 I am a strong collaborator and team player, and I am always willing to help others. I am also a quick learner and I am always eager to learn new things.
 
